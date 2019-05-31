@@ -1,4 +1,5 @@
 # Hospital Check-In App
+Authors: Daniel Schwarz, Jessie Clemons, Chance Brilz
 ## General
 This application is meant to simulate what actions a receptionist at a hospital might need access to in order to effectively check in patients and other duties.
 ### Strucure
